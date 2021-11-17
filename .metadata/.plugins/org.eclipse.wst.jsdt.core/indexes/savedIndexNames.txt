@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+/Users/amalhope/Desktop/Simplilearn/SportyShoes/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1290573180.index
+1361454264.index
+2455277533.index
